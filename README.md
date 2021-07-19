@@ -16,21 +16,24 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 ## Widget
+
 ### StatelessWidget
 
 ### StatefulWidget
 
 ### Cupertino Design
+
 - Material 디자인은 안드로이드에 어울림
 - flutter/cupertino.dart 패키지
 - Platform 클래스 제공해줌
   - https://api.dart.dev/stable/2.7.1/dart-io/Platform-class.html
 
-
 ## Reference
+
 - https://flutter.dev/docs
 - https://gallery.flutter.dev/
 - https://dev-yakuza.posstree.com/ko/flutter/start/
 - https://www.youtube.com/watch?v=ExKYjqgswJg
+- https://www.youtube.com/watch?v=axWBN1aotQk
 - https://www.youtube.com/watch?v=jI4kqLdqXic&list=PLQt_pzi-LLfpcRFhWMywTePfZ2aPapvyl&index=5
 - https://medium.com/flutter-community/flutter-todos-tutorial-with-flutter-bloc-d9dd833f9df3
